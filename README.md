@@ -4,6 +4,8 @@ This project ensures that the desired number of unmanned surface and unmanned ae
 Homogeneous distribution was performed using real map data.
 ## Categorized Homogeneous Distribution
 Positioning of different types of unmanned surface and unmanned aerial vehicles is provided.
+## Consistent Results
+Monte Carlo method was used to determine the locations. By processing the average distance and standard deviation, the fitness function can be run as many iterations as desired.
 
 ### Only positioning of unmanned aerial vehicles
 ![alt text](çoklu.png)
