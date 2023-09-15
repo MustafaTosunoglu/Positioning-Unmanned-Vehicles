@@ -4,3 +4,9 @@ This project ensures that the desired number of unmanned surface and unmanned ae
 Homogeneous distribution was performed using real map data.
 ## Categorized Homogeneous Distribution
 Positioning of different types of unmanned surface and unmanned aerial vehicles is provided.
+
+### Only positioning of unmanned aerial vehicles
+![alt text](çoklu.png)
+
+### Categorized positioning
+![alt text](3-2.png)
